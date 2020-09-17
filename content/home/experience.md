@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Current Roles"
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor of Finance"
   company = "Mays Buisness School, Texas A&M University"
-  company_url = ""
+  company_url = "https://mays.tamu.edu/directory/jhalket/"
   location = ""
   date_start = "2018-08-01"
   date_end = ""
